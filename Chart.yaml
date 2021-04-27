@@ -1,6 +1,6 @@
 apiVersion: v2
 name: chart1
-description: M iprimera prueba con Chart
+description: Mi primera prueba con Chart
 
 type: application
 
